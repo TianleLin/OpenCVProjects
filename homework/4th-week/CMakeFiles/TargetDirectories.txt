@@ -1,0 +1,3 @@
+/home/ubuntu/OpenCVProjects/homework/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/OpenCVProjects/homework/CMakeFiles/DisplayImage.dir
+/home/ubuntu/OpenCVProjects/homework/CMakeFiles/edit_cache.dir
