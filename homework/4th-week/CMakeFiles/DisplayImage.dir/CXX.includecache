@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/ubuntu/OpenCVProjects/homework/DisplayImage.cpp
+/home/ubuntu/OpenCVProjects/homework/4th-week/DisplayImage.cpp
 stdio.h
 -
 opencv2/opencv.hpp

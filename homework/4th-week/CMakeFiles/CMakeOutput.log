@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/ubuntu/OpenCVProjects/homework/CMakeFiles/3.10.2/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/3.10.2/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/ubuntu/OpenCVProjects/homework/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a81c9/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a81c9.dir/build.make CMakeFiles/cmTC_a81c9.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_a81c9.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_a81c9.dir/testCCompiler.c.o   -c /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_a81c9
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a81c9.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_a81c9.dir/testCCompiler.c.o  -o cmTC_a81c9 
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_9ace2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9ace2.dir/build.make CMakeFiles/cmTC_9ace2.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9ace2.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_9ace2.dir/testCCompiler.c.o   -c /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_9ace2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9ace2.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_9ace2.dir/testCCompiler.c.o  -o cmTC_9ace2 
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_9fa5a/fast"
-/usr/bin/make -f CMakeFiles/cmTC_9fa5a.dir/build.make CMakeFiles/cmTC_9fa5a.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9fa5a.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_9fa5a.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_9fa5a
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9fa5a.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_9fa5a.dir/CMakeCCompilerABI.c.o  -o cmTC_9fa5a 
+Run Build Command:"/usr/bin/make" "cmTC_8c0b5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8c0b5.dir/build.make CMakeFiles/cmTC_8c0b5.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8c0b5.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_8c0b5.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_8c0b5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c0b5.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_8c0b5.dir/CMakeCCompilerABI.c.o  -o cmTC_8c0b5 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -61,24 +61,24 @@ Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9fa5a' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccN9e0dU.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9fa5a /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_9fa5a.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9fa5a' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8c0b5' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccBnehCs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_8c0b5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_8c0b5.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8c0b5' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_9fa5a/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_9fa5a.dir/build.make CMakeFiles/cmTC_9fa5a.dir/build]
-  ignore line: [make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_9fa5a.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_9fa5a.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_9fa5a]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9fa5a.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_9fa5a.dir/CMakeCCompilerABI.c.o  -o cmTC_9fa5a ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_8c0b5/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_8c0b5.dir/build.make CMakeFiles/cmTC_8c0b5.dir/build]
+  ignore line: [make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_8c0b5.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_8c0b5.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_8c0b5]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c0b5.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_8c0b5.dir/CMakeCCompilerABI.c.o  -o cmTC_8c0b5 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -90,13 +90,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9fa5a' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccN9e0dU.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_9fa5a /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_9fa5a.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8c0b5' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccBnehCs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_8c0b5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_8c0b5.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccN9e0dU.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccBnehCs.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -114,7 +114,7 @@ Parsed C implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_9fa5a] ==> ignore
+    arg [cmTC_8c0b5] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -126,7 +126,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_9fa5a.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_8c0b5.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--push-state] ==> ignore
     arg [--as-needed] ==> ignore
@@ -156,17 +156,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_01b56/fast"
-/usr/bin/make -f CMakeFiles/cmTC_01b56.dir/build.make CMakeFiles/cmTC_01b56.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_01b56.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_01b56.dir/feature_tests.c.o   -c /home/ubuntu/OpenCVProjects/homework/CMakeFiles/feature_tests.c
-Linking C executable cmTC_01b56
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_01b56.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_01b56.dir/feature_tests.c.o  -o cmTC_01b56 
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_157e7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_157e7.dir/build.make CMakeFiles/cmTC_157e7.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_157e7.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_157e7.dir/feature_tests.c.o   -c /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/feature_tests.c
+Linking C executable cmTC_157e7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_157e7.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_157e7.dir/feature_tests.c.o  -o cmTC_157e7 
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -176,17 +176,17 @@ make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMak
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f615e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f615e.dir/build.make CMakeFiles/cmTC_f615e.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f615e.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_f615e.dir/feature_tests.c.o   -c /home/ubuntu/OpenCVProjects/homework/CMakeFiles/feature_tests.c
-Linking C executable cmTC_f615e
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f615e.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_f615e.dir/feature_tests.c.o  -o cmTC_f615e 
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_f3656/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f3656.dir/build.make CMakeFiles/cmTC_f3656.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f3656.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_f3656.dir/feature_tests.c.o   -c /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/feature_tests.c
+Linking C executable cmTC_f3656
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f3656.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_f3656.dir/feature_tests.c.o  -o cmTC_f3656 
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -196,17 +196,17 @@ make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMak
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7e420/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7e420.dir/build.make CMakeFiles/cmTC_7e420.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7e420.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_7e420.dir/feature_tests.c.o   -c /home/ubuntu/OpenCVProjects/homework/CMakeFiles/feature_tests.c
-Linking C executable cmTC_7e420
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7e420.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_7e420.dir/feature_tests.c.o  -o cmTC_7e420 
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_67ca5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_67ca5.dir/build.make CMakeFiles/cmTC_67ca5.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_67ca5.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_67ca5.dir/feature_tests.c.o   -c /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/feature_tests.c
+Linking C executable cmTC_67ca5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_67ca5.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_67ca5.dir/feature_tests.c.o  -o cmTC_67ca5 
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -214,30 +214,30 @@ make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMak
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_ba1c0/fast"
-/usr/bin/make -f CMakeFiles/cmTC_ba1c0.dir/build.make CMakeFiles/cmTC_ba1c0.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_ba1c0.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_ba1c0.dir/testCXXCompiler.cxx.o -c /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_ba1c0
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ba1c0.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_ba1c0.dir/testCXXCompiler.cxx.o  -o cmTC_ba1c0 
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_edb15/fast"
+/usr/bin/make -f CMakeFiles/cmTC_edb15.dir/build.make CMakeFiles/cmTC_edb15.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_edb15.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_edb15.dir/testCXXCompiler.cxx.o -c /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_edb15
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_edb15.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_edb15.dir/testCXXCompiler.cxx.o  -o cmTC_edb15 
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_36603/fast"
-/usr/bin/make -f CMakeFiles/cmTC_36603.dir/build.make CMakeFiles/cmTC_36603.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_36603.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_36603.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_36603
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_36603.dir/link.txt --verbose=1
-/usr/bin/c++      -v CMakeFiles/cmTC_36603.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_36603 
+Run Build Command:"/usr/bin/make" "cmTC_132a6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_132a6.dir/build.make CMakeFiles/cmTC_132a6.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_132a6.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_132a6.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_132a6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_132a6.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTC_132a6.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_132a6 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -249,24 +249,24 @@ Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_36603' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccwF5oYu.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_36603 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_36603.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_36603' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_132a6' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccoeMRFQ.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_132a6 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_132a6.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_132a6' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_36603/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_36603.dir/build.make CMakeFiles/cmTC_36603.dir/build]
-  ignore line: [make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_36603.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_36603.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_36603]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_36603.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_36603.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_36603 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_132a6/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_132a6.dir/build.make CMakeFiles/cmTC_132a6.dir/build]
+  ignore line: [make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_132a6.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_132a6.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_132a6]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_132a6.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_132a6.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_132a6 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -278,13 +278,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_36603' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccwF5oYu.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_36603 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_36603.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_132a6' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccoeMRFQ.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_132a6 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_132a6.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccwF5oYu.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccoeMRFQ.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -302,7 +302,7 @@ Parsed CXX implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_36603] ==> ignore
+    arg [cmTC_132a6] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -314,7 +314,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_36603.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_132a6.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -340,17 +340,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7c14c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7c14c.dir/build.make CMakeFiles/cmTC_7c14c.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_7c14c.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_7c14c.dir/feature_tests.cxx.o -c /home/ubuntu/OpenCVProjects/homework/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_7c14c
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7c14c.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_7c14c.dir/feature_tests.cxx.o  -o cmTC_7c14c 
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_133cc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_133cc.dir/build.make CMakeFiles/cmTC_133cc.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_133cc.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_133cc.dir/feature_tests.cxx.o -c /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_133cc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_133cc.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_133cc.dir/feature_tests.cxx.o  -o cmTC_133cc 
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -413,17 +413,17 @@ make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMak
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_ce217/fast"
-/usr/bin/make -f CMakeFiles/cmTC_ce217.dir/build.make CMakeFiles/cmTC_ce217.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_ce217.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_ce217.dir/feature_tests.cxx.o -c /home/ubuntu/OpenCVProjects/homework/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_ce217
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ce217.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_ce217.dir/feature_tests.cxx.o  -o cmTC_ce217 
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_5086a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5086a.dir/build.make CMakeFiles/cmTC_5086a.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5086a.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_5086a.dir/feature_tests.cxx.o -c /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_5086a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5086a.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_5086a.dir/feature_tests.cxx.o  -o cmTC_5086a 
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -486,17 +486,17 @@ make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMak
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_91313/fast"
-/usr/bin/make -f CMakeFiles/cmTC_91313.dir/build.make CMakeFiles/cmTC_91313.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_91313.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_91313.dir/feature_tests.cxx.o -c /home/ubuntu/OpenCVProjects/homework/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_91313
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_91313.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_91313.dir/feature_tests.cxx.o  -o cmTC_91313 
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_403a3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_403a3.dir/build.make CMakeFiles/cmTC_403a3.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_403a3.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_403a3.dir/feature_tests.cxx.o -c /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_403a3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_403a3.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_403a3.dir/feature_tests.cxx.o  -o cmTC_403a3 
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -559,17 +559,17 @@ make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMak
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp
+Change Dir: /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_853fa/fast"
-/usr/bin/make -f CMakeFiles/cmTC_853fa.dir/build.make CMakeFiles/cmTC_853fa.dir/build
-make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_853fa.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_853fa.dir/feature_tests.cxx.o -c /home/ubuntu/OpenCVProjects/homework/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_853fa
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_853fa.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_853fa.dir/feature_tests.cxx.o  -o cmTC_853fa 
-make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_47309/fast"
+/usr/bin/make -f CMakeFiles/cmTC_47309.dir/build.make CMakeFiles/cmTC_47309.dir/build
+make[1]: Entering directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_47309.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_47309.dir/feature_tests.cxx.o -c /home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_47309
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_47309.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_47309.dir/feature_tests.cxx.o  -o cmTC_47309 
+make[1]: Leaving directory '/home/ubuntu/OpenCVProjects/homework/4th-week/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
